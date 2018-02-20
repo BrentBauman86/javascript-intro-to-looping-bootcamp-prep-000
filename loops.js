@@ -1,10 +1,5 @@
-function forLoop(cheese){
+function forLoop(array){
 for (let i = 0; i < 25; i++)
   ('I am ${i} strange loops')
-return cheese
-};
-
-function whileLoop(4){
-  while (4 > 0)('done')
-  console.log(4)
+return array
 };
