@@ -1,3 +1,4 @@
 function forLoop(cheese){
-for (cheese i = 0; i < 100; i++)
-}
+for (cheese i = 1; i < 25; i++)
+  ('i am 1 strange loop')
+};
