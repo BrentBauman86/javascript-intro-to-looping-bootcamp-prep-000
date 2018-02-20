@@ -8,5 +8,5 @@ return array
 function whileLoop(4){
   while (i < 0){i++}
   (`done`)
-}
+};
 console.log(countdown)
