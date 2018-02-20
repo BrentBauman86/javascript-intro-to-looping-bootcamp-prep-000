@@ -10,4 +10,3 @@ function whileLoop(4){
   {'done'}
   console.log(--countdown)
 }
-
