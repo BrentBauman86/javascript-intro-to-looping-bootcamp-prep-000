@@ -1,5 +1,10 @@
 function forLoop(cheese){
-for (let i = 0; i < 26; i++)
+for (let i = 0; i < 25; i++)
   ('I am ${i} strange loops')
 return cheese
+};
+
+function whileLoop(4){
+  while (countdown > 0)
+  console.log(--coutndown)
 };
