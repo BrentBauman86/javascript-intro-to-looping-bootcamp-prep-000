@@ -5,6 +5,6 @@ return cheese
 };
 
 function whileLoop(4){
-  while (countdown > 0)
-  console.log(--coutndown)
+  while (4 > 0)
+  console.log(while)
 };
